@@ -18,7 +18,7 @@
       }
     },
     {
-        id: 1,
+        id: 2,
         name: "Oni",
         gun: "Vandal",
         variant: [
@@ -36,7 +36,7 @@
         }
       },
       {
-        id: 1,
+        id: 3,
         name: "GlitchPop",
         gun: "Vandal",
         variant: [
